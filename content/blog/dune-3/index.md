@@ -10,8 +10,6 @@ tags:
   - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-
-draft : false  
 ---
 
 Dune হাহাহা বলদামি ছাড়া আর কিছুই না
