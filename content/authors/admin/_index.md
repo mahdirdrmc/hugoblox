@@ -10,7 +10,7 @@ first_name: Mahdir
 last_name: Talukder
 
 # Status emoji
-status: Thinking
+status: 
   icon: 🤔
 
 # Is this the primary user of the site?
